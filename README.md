@@ -1,89 +1,49 @@
- Retail Inventory Management Dashboard
+ # Retail Inventory Management Dashboard
 
-Project Overview
-This project presents an end-to-end Retail Inventory Management Dashboard developed using Excel, Power Query, DAX, and Power BI. The project focuses on cleaning and transforming retail inventory data, creating business metrics, and building interactive dashboards to support inventory planning and business decision-making. The dashboard helps analyse sales performance, inventory levels, demand forecasting, stockout risk, and overstock situations.
+## Project Overview
+This project presents an end-to-end Retail Inventory Management Dashboard developed using Excel, Power Query, DAX, and Power BI. The project focuses on cleaning and transforming retail inventory data, creating business metrics, and building interactive dashboards to support inventory planning and business decision-making.
 
-1. Tools & Technologies
+## Tools & Technologies
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX (Data Analysis Expressions)
 
-•	Microsoft Excel
-•	Power Query
-•	Power BI
-•	DAX (Data Analysis Expressions)
+## Dashboard Pages
 
-2. Dashboard Pages
-1. Inventory Dashboard
-This dashboard provides an overview of retail business performance and   inventory trends.
-•	Total Revenue
-•	Total Units Sold
-•	Average Inventory
-•	Revenue by Category
-•	Demand Forecast Trend
-•	Inventory Level vs Units Sold
-•	Revenue Distribution
-•	Interactive Slicers
+### 1. Inventory Dashboard
+This dashboard provides an overview of retail sales and inventory performance.
+- Total Revenue
+- Total Units Sold
+- Average Inventory
+- Revenue by Category
+- Demand Forecast Trend
+- Inventory Analysis
 
- 2. Stock Risk Analysis
-This dashboard focuses on analysing inventory health and identifying potential stock-related problems.
-•	Stockout Risk %
-•	Stock Status Analysis
-•	Overstock Status Analysis
-•	Inventory Status Matrix
-•	Decomposition Tree
-•	Overstock vs Stockout Comparison by Category
-•	Interactive Inventory Analysis
+### 2. Stock Risk Analysis
+This dashboard focuses on analysing inventory health and identifying stock-related risks.
+- Stockout Risk %
+- Stock Status Analysis
+- Overstock Status Analysis
+- Inventory Status Matrix
+- Overstock vs Stockout Comparison by Category
+- Decomposition Tree
 
- Data Cleaning & Transformation
-The retail dataset was cleaned and prepared in Excel before importing it into Power BI. The main data preparation steps included:
-•	Removing duplicate records
-•	Checking and handling blank values
-•	Checking missing values
-•	Replacing negative demand forecast values with 0
-•	Creating Cleaned Demand Forecast
-•	Creating Sales Revenue
-•	Creating Forecast Difference
-•	Creating Demand Pressure %
-•	Creating Stock Status
-•	Creating Overstock Status
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modelling
+- DAX Measures
+- Calculated Columns
+- Data Visualization
+- Business Intelligence
+- Inventory Analysis
+- Dashboard Design
 
-  Key Business Metrics
-•	Total Revenue
-•	Total Units Sold
-•	Average Inventory
-•	Stockout Risk %
+## Project Files
+- Retail Inventory Management.pbix
+- Dashboard Image 1.PNG
+- Dashboard Image 2.PNG
 
-  Key Business Insights
-The dashboard helps identify:
-•	Overall sales revenue and units sold
-•	Changes in expected demand over time
-•	Categories contributing to revenue
-•	Products and categories with stockout risk
-•	Overstock situations
-•	Inventory categories requiring attention
-•	Differences between inventory availability and customer demand
-
-Dashboard Preview
-1. Inventory Dashboard
-[Inventory Dashboard] (dashboard image 1.png)
-2. Stock Risk Analysis
-[Stock Risk Analysis] (dashboard image 2.png)
-
-Skills Demonstrated
-•	Data Cleaning
-•	Data Transformation
-•	Data Modelling
-•	DAX Measures
-•	Calculated Columns
-•	Data Visualization
-•	Business Intelligence
-•	Inventory Analysis
-•	Dashboard Design
-•	Interactive Reporting
-
-  Project Files
-
-•	Retail_Inventory_Management_Dashboard.pbix
-•	Retail_Inventory_Dataset.xlsx
-•	dashboard image 1.png
-•	dashboard image 2.png
-Author
-Monica Nancy Pajanor A
+## Author
+**Monica Nancy Pajanor A**
